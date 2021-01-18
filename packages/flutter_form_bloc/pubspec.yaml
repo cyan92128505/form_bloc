@@ -14,7 +14,9 @@ dependencies:
   bloc: 
   flutter_bloc: 
   form_bloc:
-    path: ../form_bloc
+    git:
+      url: git://github.com/cyan92128505/form_bloc.git
+      path: packages/form_bloc
   rxdart: 
   flutter_keyboard_visibility: 
   collection: 
